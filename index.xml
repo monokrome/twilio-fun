@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <Response>
-    <Say>
-		Ryan, this is a courtesy call being placed in order to remind you to
-		get on chat. Thank you.
+	<Say>
+		Kaytlin, this is a courtesy call to remind you to send Ryan
+		a spreadsheet with all of his clients.
+	</Say>
+	<Say>
+		Thank you.
 	</Say>
 </Response>
